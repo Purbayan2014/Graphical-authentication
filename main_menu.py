@@ -3,7 +3,7 @@ from tkinter import *
 from tkinter import font
 import custom_button
 import garbled
-import obscure
+# import obscure
 import password
 import segments
 from utils import customImage
@@ -14,9 +14,9 @@ def load_garbled(window, menu_frame):
     garbled.start(window)
 
 
-def load_obscured(window, menu_frame):
-    menu_frame.pack_forget()
-    obscure.start(window)
+# def load_obscured(window, menu_frame):
+#     menu_frame.pack_forget()
+#     obscure.start(window)
 
 
 def load_segmented(window, menu_frame):
