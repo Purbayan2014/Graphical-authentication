@@ -2,6 +2,12 @@
 
 This is used to increase the protection/security of a website. The system is divided into further 3 layers of protection. Each layer is totally different and diverse than the others. This not only increases protection, but also makes sure that no non-human can log in to your account using different activities such as Brute Force Algorithm and so on.
 
+# Demo
+
+
+https://user-images.githubusercontent.com/90950629/228270512-d0947eba-b749-438a-ac2d-88ebd03739b6.mp4
+
+
 1.Segmented Images Authentication
 
 For this layer, the user will be showed 4 different images. These images will be a division of a whole image. User will have to select the correct order of the images.
